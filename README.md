@@ -1,2 +1,3 @@
 # goserver
-untuk semua modul pada server GO
+Unutuk menyimpan data dan modul dari Pelatihan GO For Web Developer
+
